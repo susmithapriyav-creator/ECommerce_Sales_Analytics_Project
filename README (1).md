@@ -1,7 +1,7 @@
 # E-Commerce Sales Analytics and AI-Based Sales Prediction
 
 **IBM SkillsBuild Data Analytics with AI Academic Internship — Capstone Project**  
-**Submitted by:** Vishnu Upendra Borusu
+**Submitted by:** VASAMSETTI SUSMITHA PRIYA
 
 ---
 
